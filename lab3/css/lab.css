@@ -7,3 +7,17 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+  h1 {
+    letter-spacing: 5px;
+    text-indent: 150px;
+    word-spacing: 10px;
+  }
+#lab3htmlsourcecode {
+  max-width: 500px;
+  margin-left: 250px;
+}
+
+#lab3htmlsourcecode2 {
+  max-width: 500px;
+  margin-left: 250px;
+}
