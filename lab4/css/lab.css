@@ -5,5 +5,36 @@
     padding: 10px;
     margin-bottom: 10px;
     border: solid 1px #888;
-    background-color: #DDD8C4;
+    background-color:darkseagreen;
   }
+
+  #pseudocodeeverydaytask {
+    max-width: 800px;
+  }
+
+  #javascriptcode {
+    max-width: 800px;
+    
+  }
+  #pseudocodegame {
+    max-width: 800px;
+  }
+  
+  h1{
+    letter-spacing: 1px;
+    text-indent: 1px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+h2{
+  text-indent: 1px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+#content{
+  background-color:darkcyan
+}
+
+#background {
+  background-color:darkgreen
+}
