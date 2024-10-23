@@ -5,5 +5,24 @@
     padding: 10px;
     margin-bottom: 10px;
     border: solid 1px #888;
-    background-color: #DDD8C4;
+    background-color:azure;
+  }
+
+  h1 {
+    letter-spacing: 1px;
+    text-indent: 1px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  h2{
+    text-indent: 1px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  #background{
+    background-color:darkolivegreen;
+  }
+
+  #content{
+    background-color:darkseagreen
   }
