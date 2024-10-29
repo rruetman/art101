@@ -15,19 +15,24 @@ h1,h2,h3 {
 /* and we can have rules that overlap other rules, both take effect */
 h1 {
   letter-spacing: 5px;
-  text-indent: 400px;
   word-spacing: 50px;
-  font-size: 200%;
+  font-size: 400%;
+  text-align:center; 
 }
+
 h2 {
-  text-indent: 400px;
+  text-align:center;
+}
+
+p {
+  text-align:center;
 }
 /* the hashtag in a CSS selector selects an element by id, e.g., id="content" */
 #content {
-  margin: 90px;
+  margin: 50px;
   padding: 10px;
   border: solid 1px #b5692f;
-  background-color: #e9bc8f;
+  background-color:darkkhaki;
 }
 
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
@@ -35,5 +40,8 @@ h2 {
   padding: 10px;
   margin-bottom: 10px;
   border: solid 1px #888;
-  background-color: #f1c6a8;
+  background-color:rgb(255, 234, 209);
 }
+ ul{
+  text-align: center;
+ }
