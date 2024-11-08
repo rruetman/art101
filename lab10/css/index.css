@@ -1,7 +1,7 @@
- .minor-section{
+.minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 5px  #888;
+    border: solid 1px  #888;
     background-color: azure;
   }
 
@@ -21,17 +21,22 @@
     background-color: darkolivegreen;
   }
 
-  p {
+  #content{
+    background-color: darkseagreen;
+}
+
+p {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
 
-  #content{
-      background-color: darkseagreen;
+  .text p {
+    display: in-line block;
+    max-width: 100%;
+    margin: 10px;
+    padding: 5px ;
+    border-radius: 5px;
+    background-color:gainsboro;
+    color:darkslategray;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 0.8em;
   }
-
-  .special {
-    background-color:lavender;
-    border: dashed 15px purple;
-    color: rgb(189, 80, 189);
-    font-weight: bold;
-}
