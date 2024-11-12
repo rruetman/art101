@@ -1,4 +1,4 @@
-// index.js - Lab 9 - JavaScript for the Web
+// index.js - Lab 10 - JavaScript for the Web
 // Author: Ruby Ruetmann
 // Date: November 6, 2024
 // lab.js - This simple JavaScript/jQuery script appends new elements to an output div
@@ -19,15 +19,9 @@ function generateRandomText() {
 
 // event listener for button
 $("#make-convo").click(function(){
+    // get new fake dialogue
     const newText = generateRandomText();
+
+    // append a new div to our output div
     $("#output").append('<div class="text"><p>' + newText + '</p></div>');
 });
-
-// get new fake dialogue
-
-
-// append a new div to our output div
-
-
-
-
