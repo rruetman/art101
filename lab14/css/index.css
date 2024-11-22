@@ -1,0 +1,38 @@
+.debugger {
+    max-width: 500px;
+}
+
+.debugger2{
+    max-width: 500px;
+}
+
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px  #888;
+    background-color: azure;
+  }
+
+  h1 {
+    letter-spacing: 1px;
+    text-indent: 1px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+  }
+
+  h2{
+    text-indent: 1px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  #background{
+    background-color: darkolivegreen;
+  }
+
+  #content{
+    background-color: darkseagreen;
+}
+
+p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }

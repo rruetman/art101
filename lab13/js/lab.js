@@ -2,7 +2,7 @@
 // Author: Ruby Ruetmann
 // Date: November 19, 2024
 
-// Create a "FizzBuzz" loop function
+// Create a "FizzBuzzBoom" loop function
 
 // Loop through numbers 1 to 200 using jQuery 
 for (var i = 0; i < 200; i++) {
